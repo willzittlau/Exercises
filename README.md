@@ -1,3 +1,4 @@
 # Exercises
-Learn Python the Hard Way textbook exercises. Written in Python 3
+Learn Python the Hard Way textbook exercises.  
+Written in Python 3  
 Cloud backup
